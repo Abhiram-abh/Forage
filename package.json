@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@skyscanner/backpack-react-scripts": "11.2.1"
+    "@skyscanner/backpack-react-scripts": "11.2.1",
+    "ajv": "^8.17.1",
+    "react-calendar": "^5.0.0",
+    "sass": "^1.78.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,7 +29,9 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-transform-flow-strip-types": "^7.25.2",
     "@skyscanner/backpack-web": "^15.1.0",
+    "bpk-component-calendar": "^13.1.2",
     "bpk-mixins": "^36.2.0",
     "bpk-stylesheets": "^7.2.16",
     "react": "^17.0.2",
