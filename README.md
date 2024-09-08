@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
 > [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
 > It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
@@ -200,3 +201,7 @@ If this is unsuitable, then you can always run `npm run eject` which copies all 
 **Note: this is a one-way operation - once you eject, you can’t go back!**
 
 Please don't do this if you don't have to - the curated feature set is there to promote standardisation across Skyscanner's front-end stack.
+=======
+# Forage
+Completed the Skyscanner Front-End Software Engineering virtual experience on Forage in September 2024. Built a date-picking web application using React and Skyscanner's Backpack library. Customized the app and ran automated tests to ensure proper functionality.
+>>>>>>> f10464da98ee35e54e79f05e546d1f37deca9058
